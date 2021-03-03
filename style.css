@@ -1,0 +1,23 @@
+body {
+  background-color: teal;
+}
+.timer {
+  background-color: lightblue;
+  display: flex;
+  justify-content: center;
+  padding-top: 50px;
+  padding-bottom: 50px;
+  font-size: 90px;
+}
+
+.field {
+  margin-right: 40px;
+}
+
+.label {
+  font-size: 25px;
+}
+
+.value {
+  font-size: 40px;
+}
